@@ -1,1 +1,3 @@
-
+The program in this code is predicting diabetes using Binary Logistic Regression, which is built from scratch with the use of the NumPy library. The dataset is the Pima Indians Diabetes Dataset, which is subdivided into the train and test set with normalization of the feature using StandardScaler.
+The model utilizes the sigmoid function, binary cross-entropy loss, and gradient descent optimization techniques. Then, the model's performance is verified using various parameters, including accuracy, precision, recall, and confusion matrix. Finally, the program classifies whether the individual is suffering from diabetes or not.
+The kaggle dataset used here https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
